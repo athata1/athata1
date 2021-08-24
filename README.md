@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @athata1
+- 👋 Hi, I’m Akhil Thata
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science at Purdue University
 - 💞️ I’m looking to collaborate on ...
