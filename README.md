@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Akhil Thata</h1>
+<h1 align="center"><img align="center" src="banner.png" width="100%" />
+</h1>
 <h3 align="center">Currently specializing in Web development and iOS development</h3>
 
+- 🎓 Currently studying **Computer Science** at Purdue University
+
+- 💻 I enjoy learning about new technologies as well as new ways to accomplish goals
+
 - 🌱 I’m currently learning **Swift and React**
+
+- 🏀 My favorite recreational activities are riding my bike and playing basketball
 
 - 📫 How to reach me **akhilthata.business@gmail.com**
 
