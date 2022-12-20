@@ -24,17 +24,17 @@
 <h3 align="left">Java Projects</h3>
 <div style="margin-bottom: 30px;">
   <a href="https://github.com/athata1/Stock-Analyzer---Akhil-Thata">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata&theme=gotham" />
   </a>
   <a href="https://github.com/athata1/Nonogram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=gotham" />
   </a>
 </div>
 <a href="https://github.com/athata1/PathfindingVisualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=gotham" />
 </a>
 <h3 align="left">Web Projects</h3>
 <a href="https://github.com/athata1/CSTrackOptimizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=gotham" />
 </a>
 
