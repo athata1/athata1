@@ -26,4 +26,8 @@
 <a href="https://github.com/athata1/PathfindingVisualizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=buefy" />
 </a>
+<h3 align="left">Web Projects</h3>
+<a href="https://github.com/athata1/CSTrackOptimizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=buefy" />
+</a>
 
