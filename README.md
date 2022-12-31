@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img align="center" src="dark-banner.png#gh-dark-mode-only" width="100%" />
-  <img align="center" src="light-banner.png#gh-light-mode-only" width="100%" />
+  <img align="center" src="darkmode-banner.png#gh-dark-mode-only" width="100%" />
+  <img align="center" src="lightmode-banner.png#gh-light-mode-only" width="100%" />
 </h1>
 <h3 align="center">Currently specializing in Web development and iOS development</h3>
 
