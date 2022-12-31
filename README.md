@@ -37,6 +37,9 @@
 <a href="https://github.com/athata1/CSTrackOptimizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=vue-dark" />
 </a>
+<a href="https://github.com/athata1/CSTrackOptimizerReact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizerReact&theme=vue-dark" />
+</a>
 <h3 align="left">Python Projects</h3>
 <a href="https://github.com/athata1/ValorantClipper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=ValorantClipper&theme=vue-dark" />
