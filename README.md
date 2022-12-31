@@ -22,16 +22,49 @@
 
 <h1 align="center">Projects based on Category</h1>
 <h3 align="left">Java Projects</h3>
+
+
+
 <div style="margin-bottom: 30px;">
   <a href="https://github.com/athata1/Stock-Analyzer---Akhil-Thata">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata&theme=vue-dark" />
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata&theme=vue-dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata" />
+    </picture>
   </a>
   <a href="https://github.com/athata1/Nonogram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=vue-dark" />
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=vue-dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram" />
+    </picture>
   </a>
 </div>
 <a href="https://github.com/athata1/PathfindingVisualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=vue-dark" />
+  <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=vue-dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram" />
+    </picture>
 </a>
 <h3 align="left">Web Projects</h3>
 <a href="https://github.com/athata1/CSTrackOptimizer">
