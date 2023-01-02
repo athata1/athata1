@@ -95,6 +95,19 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=swift" />
   </picture>
 </a>
+<a href="https://github.com/athata1/TodoApp">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=TodoApp&theme=vue-dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=TodoApp&theme=swift"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=swift" />
+  </picture>
+</a>
 <h3 align="left">Python Projects</h3>
 <a href="https://github.com/athata1/ValorantClipper">
   <picture>
