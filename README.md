@@ -31,11 +31,11 @@
   <a href="https://github.com/athata1/Stock-Analyzer---Akhil-Thata">
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata&theme=vue-dark"
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata&theme=vue-dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata&theme=swift"
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata&theme=swift"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Stock-Analyzer---Akhil-Thata&theme=swift" />
@@ -44,11 +44,11 @@
   <a href="https://github.com/athata1/Nonogram">
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=vue-dark"
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=vue-dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=swift"
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=swift"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=swift" />
@@ -58,25 +58,25 @@
 <a href="https://github.com/athata1/PathfindingVisualizer">
   <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=vue-dark"
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=vue-dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=swift"
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=swift"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=PathfindingVisualizer&theme=swift" />
+      <img align="center" src="pin/?username=athata1&repo=PathfindingVisualizer&theme=swift" />
     </picture>
 </a>
 <h3 align="left">Web Projects</h3>
 <a href="https://github.com/athata1/CSTrackOptimizer">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=vue-dark"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=vue-dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=swift"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=swift" />
@@ -85,11 +85,11 @@
 <a href="https://github.com/athata1/CSTrackOptimizerReact">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizerReact&theme=vue-dark"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizerReact&theme=vue-dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizerReact&theme=swift"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizerReact&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=swift" />
@@ -98,11 +98,11 @@
 <a href="https://github.com/athata1/TodoApp">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=TodoApp&theme=vue-dark"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=TodoApp&theme=vue-dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=TodoApp&theme=swift"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=TodoApp&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=swift" />
@@ -112,11 +112,11 @@
 <a href="https://github.com/athata1/ValorantClipper">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=ValorantClipper&theme=vue-dark"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=ValorantClipper&theme=vue-dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=ValorantClipper&theme=swift"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=ValorantClipper&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=ValorantClipper&theme=swift" />
@@ -125,11 +125,11 @@
 <a href="https://github.com/athata1/ImgToAscii">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=ImgToAscii&theme=vue-dark"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=ImgToAscii&theme=vue-dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=ImgToAscii&theme=swift"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=ImgToAscii&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=ImgToAscii&theme=swift" />
