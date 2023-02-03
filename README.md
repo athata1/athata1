@@ -24,9 +24,6 @@
 
 <h1 align="center">Projects based on Category</h1>
 <h3 align="left">Java Projects</h3>
-
-
-
 <div style="margin-bottom: 30px;">
   <a href="https://github.com/athata1/Stock-Analyzer---Akhil-Thata">
     <picture>
@@ -67,6 +64,20 @@
       />
       <img align="center" src="pin/?username=athata1&repo=PathfindingVisualizer&theme=swift" />
     </picture>
+</a>
+<h3 align="left">Swift Projects</h3>
+<a href="https://github.com/athata1/Spotflix">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=Spotflix&theme=vue-dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=Spotflix&theme=swift"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Spotflix&theme=swift" />
+  </picture>
 </a>
 <h3 align="left">Web Projects</h3>
 <a href="https://github.com/athata1/CSTrackOptimizer">
