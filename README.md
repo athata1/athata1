@@ -41,14 +41,14 @@
   <a href="https://github.com/athata1/NonogramColor">
     <picture>
       <source 
-        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=NonogramColor&theme=vue-dark"
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=vue-dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=NonogramColor&theme=swift"
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=swift"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=NonogramColor&theme=swift" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athata1&repo=Nonogram&theme=swift" />
     </picture>
   </a>
 </div>
