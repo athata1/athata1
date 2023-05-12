@@ -54,7 +54,7 @@
 <a href="https://github.com/athata1/CSTrackOptimizer">
   <picture>
     <source 
-      srcset="pins/GithubCSTrackOptimizerDark.svg"
+      srcset="https://github.com/athata1/athata1/blob/main/pins/GithubCSTrackOptimizerDark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
