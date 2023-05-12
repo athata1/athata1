@@ -27,11 +27,11 @@
 <a href="https://github.com/athata1/Spotflix">
   <picture>
     <source 
-      srcset="pins/GithubSpotflixDark.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubSpotflixDark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="pins/GithubSpotflixLight.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubSpotflixLight.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" src="pins/GithubSpotflixLight.svg" />
@@ -58,20 +58,20 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="pins/GithubCSTrackOptimizerLight.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubCSTrackOptimizerLight.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="paths/GithubCSTrackOptimizerLight.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubCSTrackOptimizerLight.svg" />
   </picture>
 </a>
 <a href="https://github.com/athata1/CSTrackOptimizerReact">
   <picture>
     <source 
-      srcset="pins/GithubCSTrackOptimizerReactDark.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubCSTrackOptimizerReactDark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="pins/GithubCSTrackOptimizerReactLight.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubCSTrackOptimizerReactLight.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=swift" />
@@ -80,25 +80,25 @@
 <a href="https://github.com/athata1/TodoApp">
   <picture>
     <source 
-      srcset="pins/GithubTodoAppDark.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubTodoAppDark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="pins/GithubTodoAppLight.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubTodoAppLight.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="pins/GithubTodoAppLight.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubTodoAppLight.svg" />
   </picture>
 </a>
 <h3 align="left">Python Projects</h3>
 <a href="https://github.com/athata1/ValorantClipper">
   <picture>
     <source 
-      srcset="pins/GithubValorantClipperDark.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubValorantClipperDark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="pins/GithubValorantClipperLight.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubValorantClipperLight.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" src="pins/GithubValorantClipperLight.sv" />
@@ -107,14 +107,14 @@
 <a href="https://github.com/athata1/ImgToAscii">
   <picture>
     <source 
-      srcset="pins/GithubImgToAsciiDark.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubImgToAsciiDark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="pins/GithubImgToAsciiLight.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubImgToAsciiLight.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="pins/GithubImgToAsciiLight.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubImgToAsciiLight.svg" />
   </picture>
 </a>
 <h3 align="left">Java Projects</h3>
@@ -122,11 +122,11 @@
   <a href="https://github.com/athata1/Stock-Analyzer---Akhil-Thata">
     <picture>
       <source 
-        srcset="pins/GithubStockAnalyzerDark.svg"
+        srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubStockAnalyzerDark.svg"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="pins/GithubStockAnalyzerLight.svg"
+        srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubStockAnalyzerLight.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img align="center" src="pins/GithubStockAnalyzerLight.svg" />
@@ -135,27 +135,27 @@
   <a href="https://github.com/athata1/NonogramColor">
     <picture>
       <source 
-        srcset="pins/GithubNonogramColorDark.svg"
+        srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubNonogramColorDark.svg"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="pins/GithubNonogramColorLight.svg"
+        srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubNonogramColorLight.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="pins/GithubNonogramColorLight.svg" />
+      <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubNonogramColorLight.svg" />
     </picture>
   </a>
 </div>
 <a href="https://github.com/athata1/PathfindingVisualizer">
   <picture>
       <source 
-        srcset="pins/GithubPathfindingVisualizerDark.svg"
+        srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubPathfindingVisualizerDark.svg"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="pins/GithubPathfindingVisualizerLight.svg"
+        srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubPathfindingVisualizerLight.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="pins/GithubPathfindingVisualizerLight.svg" />
+      <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubPathfindingVisualizerLight.svg" />
     </picture>
 </a>
