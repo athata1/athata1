@@ -37,6 +37,19 @@
     <img align="center" src="pins/GithubSpotflixLight.svg" />
   </picture>
 </a>
+<a href="https://github.com/BooksManager/BookManager">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BooksManager&repo=BookManager&theme=vue-dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BooksManager&repo=BookManager"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BooksManager&repo=BookManager" />
+  </picture>
+</a>
 <h3 align="left">Web Projects</h3>
 <a href="https://github.com/athata1/CSTrackOptimizer">
   <picture>
