@@ -80,14 +80,14 @@
 <a href="https://github.com/athata1/TodoApp">
   <picture>
     <source 
-      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubTodoAppDark.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubHomeCookedDark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubTodoAppLight.svg"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubHomeCookedLight.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubTodoAppLight.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubHomeCookedLight.svg" />
   </picture>
 </a>
 <h3 align="left">Python Projects</h3>
