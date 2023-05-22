@@ -40,14 +40,14 @@
 <a href="https://github.com/BooksManager/BookManager">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BooksManager&repo=BookManager&theme=vue-dark"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubBookManagerDark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BooksManager&repo=BookManager"
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubBookManagerLight.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BooksManager&repo=BookManager" />
+    <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubBookManagerLight.svg" />
   </picture>
 </a>
 <h3 align="left">Web Projects</h3>
