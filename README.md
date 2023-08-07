@@ -51,6 +51,19 @@
   </picture>
 </a>
 <h3 align="left">Web Projects</h3>
+<a href="https://github.com/athata1/GeospatialVoronoiVisualizer">
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubvoronoivisualizerDark.png.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubvoronoivisualizerLight.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubvoronoivisualizerLight.png.svg" />
+  </picture>
+</a>
 <a href="https://github.com/athata1/CSTrackOptimizer">
   <picture>
     <source 
