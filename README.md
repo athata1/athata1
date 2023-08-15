@@ -90,7 +90,7 @@
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=athata1&repo=CSTrackOptimizer&theme=swift" />
   </picture>
 </a>
-<a href="https://github.com/athata1/TodoApp">
+<a href="https://github.com/athata1/HomeCooked">
   <picture>
     <source 
       srcset="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubHomeCookedDark.svg"
