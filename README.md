@@ -1,6 +1,15 @@
 <h1 align="center">
-  <img align="center" src="darkmode-banner.png#gh-dark-mode-only" width="100%" />
-  <img align="center" src="lightmode-banner.png#gh-light-mode-only" width="100%" />
+  <picture>
+    <source 
+      srcset="darkmode-banner.png"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="lightmode-banner.png"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="lightmode-banner.png" />
+  </picture>
 </h1>
 <h3 align="center">Currently specializing in Web development and iOS development</h3>
 
