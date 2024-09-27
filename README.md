@@ -17,7 +17,7 @@
 
 - 💻 I enjoy learning about new technologies as well as new ways to accomplish goals
 
-- 🌱 I’m currently learning **Swift and React**
+- 🌱 I’m currently learning **UIKit/SwiftUI and React**
 
 - 🏀 My favorite recreational activities are riding my bike and playing basketball
 
