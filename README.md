@@ -13,7 +13,7 @@
 </h1>
 <h3 align="center">Currently specializing in Web development and iOS development</h3>
 
-- 🎓 Currently studying **Computer Science** at Purdue University
+- 🎓 Currently studying **Computer Science** at Purdue University (B.S + M.S)
 
 - 💻 I enjoy learning about new technologies as well as new ways to accomplish goals
 
