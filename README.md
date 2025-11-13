@@ -181,3 +181,5 @@
       <img align="center" src="https://raw.githubusercontent.com/athata1/athata1/main/pins/GithubPathfindingVisualizerLight.svg" />
     </picture>
 </a>
+<img src="https://komarev.com/ghpvc/?username=athata1" width="0" height="0" alt="Profile views counter" />
+
